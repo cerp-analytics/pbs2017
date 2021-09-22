@@ -1,0 +1,142 @@
+﻿ID_0,ISO,NAME_0,ID_1,NAME_1,ID_2,NAME_2,ID_3,NAME_3,TYPE_3,ENGTYPE_3,pbs_name
+171,PAK,Pakistan,2,Baluchistan,2,Kalat,9,Awaran District,District,District,AWARAN DISTRICT
+171,PAK,Pakistan,2,Baluchistan,2,Kalat,12,Kalat District,District,District,KALAT DISTRICT
+171,PAK,Pakistan,2,Baluchistan,2,Kalat,13,Kharan District,District,District,KHARAN DISTRICT
+171,PAK,Pakistan,2,Baluchistan,2,Kalat,14,Khuzdar District,District,District,KHUZDAR DISTRICT
+171,PAK,Pakistan,2,Baluchistan,2,Kalat,15,Lasbela District,District,District,LASBELA DISTRICT
+171,PAK,Pakistan,2,Baluchistan,2,Kalat,16,Mastung District,District,District,MASTUNG DISTRICT
+171,PAK,Pakistan,2,Baluchistan,3,Makran,17,Gwadar District,District,District,GWADAR DISTRICT
+171,PAK,Pakistan,2,Baluchistan,3,Makran,18,Kech District,District,District,KECH DISTRICT
+171,PAK,Pakistan,2,Baluchistan,3,Makran,19,Panjgur District,District,District,PANJGUR DISTRICT
+171,PAK,Pakistan,2,Baluchistan,4,Nasirabad,21,Jaffarabad District,District,District,JAFFARABAD DISTRICT
+171,PAK,Pakistan,2,Baluchistan,4,Nasirabad,22,Jhal Magsi District,District,District,JHAL MAGSI DISTRICT
+171,PAK,Pakistan,2,Baluchistan,4,Nasirabad,23,Nasirabad District,District,District,NASIRABAD DISTRICT
+171,PAK,Pakistan,2,Baluchistan,5,Quetta,24,Chagai District,District,District,CHAGAI DISTRICT
+171,PAK,Pakistan,2,Baluchistan,5,Quetta,25,Pishin District,District,District,PISHIN DISTRICT
+171,PAK,Pakistan,2,Baluchistan,5,Quetta,27,Quetta District,District,District,QUETTA DISTRICT
+171,PAK,Pakistan,2,Baluchistan,6,Sibi,28,Dera Bugti District,District,District,DERA BUGTI DISTRICT
+171,PAK,Pakistan,2,Baluchistan,6,Sibi,29,Kohlu District,District,District,KOHLU DISTRICT
+171,PAK,Pakistan,2,Baluchistan,6,Sibi,30,Sibi District,District,District,SIBI DISTRICT
+171,PAK,Pakistan,2,Baluchistan,6,Sibi,31,Ziarat District,District,District,ZIARAT DISTRICT
+171,PAK,Pakistan,2,Baluchistan,7,Zhob,32,Barkhan District,District,District,BARKHAN DISTRICT
+171,PAK,Pakistan,2,Baluchistan,7,Zhob,33,Loralai District,District,District,LORALAI DISTRICT
+171,PAK,Pakistan,2,Baluchistan,7,Zhob,34,Musakhel District,District,District,MUSAKHEL DISTRICT
+171,PAK,Pakistan,2,Baluchistan,7,Zhob,36,Zhob District,District,District,ZHOB DISTRICT
+171,PAK,Pakistan,3,F.A.T.A.,8,F.A.T.A.,37,Bajaur Agency,District,District,BAJAUR AGENCY
+171,PAK,Pakistan,3,F.A.T.A.,8,F.A.T.A.,38,Khyber Agency,District,District,KHYBER AGENCY
+171,PAK,Pakistan,3,F.A.T.A.,8,F.A.T.A.,39,Kurram Agency,District,District,KURRAM AGENCY
+171,PAK,Pakistan,3,F.A.T.A.,8,F.A.T.A.,41,Mohmand Agency,District,District,MOHMAND AGENCY
+171,PAK,Pakistan,3,F.A.T.A.,8,F.A.T.A.,42,North Waziristan Agency,District,District,NORTH WAZIRISTAN AGENCY
+171,PAK,Pakistan,3,F.A.T.A.,8,F.A.T.A.,43,Orazkai Agency,District,District,ORAKZAI AGENCY
+171,PAK,Pakistan,3,F.A.T.A.,8,F.A.T.A.,44,South Waziristan Agency,District,District,SOUTH WAZIRISTAN
+171,PAK,Pakistan,5,N.W.F.P.,10,Bannu,46,Bannu District,District,District,BANNU DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,10,Bannu,47,Lakki Marwat District,District,District,LAKKI MARWAT DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,11,Dera Ismail Khan,48,Dera Ismail Khan District,District,District,DERA ISMAIL KHAN DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,11,Dera Ismail Khan,49,Tank District,District,District,TANK DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,13,Hazara,52,Abottabad District,District,District,ABBOTTABAD DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,13,Hazara,53,Batagram District,District,District,BATAGRAM DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,13,Hazara,54,Haripur District,District,District,HARIPUR DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,13,Hazara,55,Kohistan District,District,District,KOHISTAN DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,13,Hazara,56,Mansehra District,District,District,MANSEHRA DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,14,Kohat,57,Hangu District,District,District,HANGU DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,14,Kohat,58,Karak District,District,District,KARAK DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,14,Kohat,59,Kohat District,District,District,KOHAT DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,15,Malakand,60,Chitral District,District,District,CHITRAL DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,15,Malakand,62,Malakand Protected Area,District,District,MALAKAND PROTECTED AREA
+171,PAK,Pakistan,5,N.W.F.P.,15,Malakand,63,Shangla District,District,District,SHANGLA DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,15,Malakand,64,Swat District,District,District,SWAT DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,16,Mardan,65,Buner District,District,District,BUNER DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,16,Mardan,66,Mardan District,District,District,MARDAN DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,16,Mardan,67,Swabi District,District,District,SWABI DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,17,Peshawar,68,Charsadda District,District,District,CHARSADDA DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,17,Peshawar,69,Nowshera District,District,District,NOWSHERA DISTRICT
+171,PAK,Pakistan,5,N.W.F.P.,17,Peshawar,70,Peshawar District,District,District,PESHAWAR DISTRICT
+171,PAK,Pakistan,7,Punjab,19,Bahawalpur,77,Bahawalnagar District,District,District,BAHAWALNAGAR DISTRICT
+171,PAK,Pakistan,7,Punjab,19,Bahawalpur,78,Bahawalpur District,District,District,BAHAWALPUR DISTRICT
+171,PAK,Pakistan,7,Punjab,19,Bahawalpur,79,Rahim Yar Khan District,District,District,RAHIM YAR KHAN DISTRICT
+171,PAK,Pakistan,7,Punjab,20,Dera Ghazi Khan,80,Dera Ghazi Khan District,District,District,DERA GHAZI KHAN DISTRICT
+171,PAK,Pakistan,7,Punjab,20,Dera Ghazi Khan,81,Layyah District,District,District,LAYYAH DISTRICT
+171,PAK,Pakistan,7,Punjab,20,Dera Ghazi Khan,82,Muzaffargarh District,District,District,MUZAFFARGARH
+171,PAK,Pakistan,7,Punjab,20,Dera Ghazi Khan,83,Rajanpur District,District,District,RAJANPUR DISTRICT
+171,PAK,Pakistan,7,Punjab,21,Faisalabad,84,Faisalabad District,District,District,FAISALABAD DISTRICT
+171,PAK,Pakistan,7,Punjab,21,Faisalabad,85,Jhang District,District,District,JHANG DISTRICT
+171,PAK,Pakistan,7,Punjab,21,Faisalabad,86,Toba Tek Singh District,District,District,TOBA TEK SINGH DISTRICT
+171,PAK,Pakistan,7,Punjab,22,Gujranwala,88,Gujranwala District,District,District,GUJRANWALA DISTRICT
+171,PAK,Pakistan,7,Punjab,22,Gujranwala,90,Gujrat District,District,District,GUJRAT DISTRICT
+171,PAK,Pakistan,7,Punjab,22,Gujranwala,91,Hafizabad District,District,District,HAFIZABAD DISTRICT
+171,PAK,Pakistan,7,Punjab,22,Gujranwala,92,Narowal District,District,District,NAROWAL DISTRICT
+171,PAK,Pakistan,7,Punjab,22,Gujranwala,94,Sialkot District,District,District,SIALKOT DISTRICT
+171,PAK,Pakistan,7,Punjab,23,Lahore,95,Kasur District,District,District,KASUR DISTRICT
+171,PAK,Pakistan,7,Punjab,23,Lahore,96,Lahore District,District,District,LAHORE DISTRICT
+171,PAK,Pakistan,7,Punjab,23,Lahore,97,Nankana Sahib District,District,District,NANKANA SAHIB DISTRIC
+171,PAK,Pakistan,7,Punjab,23,Lahore,99,Okara District,District,District,OKARA DISTRICT
+171,PAK,Pakistan,7,Punjab,23,Lahore,100,Sheikhupura District,District,District,SHEIKHUPURA DISTRICT
+171,PAK,Pakistan,7,Punjab,24,Multan,101,Khanewal District,District,District,KHANEWAL DISTRICT
+171,PAK,Pakistan,7,Punjab,24,Multan,102,Lodhran District,District,District,LODHRAN DISTRICT
+171,PAK,Pakistan,7,Punjab,24,Multan,103,Multan District,District,District,MULTAN DISTRICT
+171,PAK,Pakistan,7,Punjab,24,Multan,104,Pakpattan District,District,District,PAKPATTAN DISTRICT
+171,PAK,Pakistan,7,Punjab,24,Multan,105,Sahiwal District,District,District,SAHIWAL DISTRICT
+171,PAK,Pakistan,7,Punjab,24,Multan,106,Vehari District,District,District,VEHARI DISTRICT
+171,PAK,Pakistan,7,Punjab,25,Rawalpindi,107,Attock District,District,District,ATTOCK DISTRICT
+171,PAK,Pakistan,7,Punjab,25,Rawalpindi,108,Chakwal District,District,District,CHAKWAL DISTRICT
+171,PAK,Pakistan,7,Punjab,25,Rawalpindi,109,Jhelum District,District,District,JHELUM DISTRICT
+171,PAK,Pakistan,7,Punjab,25,Rawalpindi,110,Rawalpindi District,District,District,RAWALPINDI DISTRICT
+171,PAK,Pakistan,7,Punjab,26,Sargodha,111,Bhakkar District,District,District,BHAKKAR DISTRICT
+171,PAK,Pakistan,7,Punjab,26,Sargodha,112,Khushab District,District,District,KHUSHAB DISTRICT
+171,PAK,Pakistan,7,Punjab,26,Sargodha,113,Mianwali District,District,District,MIANWALI DISTRICT
+171,PAK,Pakistan,7,Punjab,26,Sargodha,114,Sargodha District,District,District,SARGODHA DISTRICT
+171,PAK,Pakistan,8,Sind,27,Hyderabad,115,Badin District,District,District,BADIN DISTRICT
+171,PAK,Pakistan,8,Sind,27,Hyderabad,116,Dadu District,District,District,DADU DISTRICT
+171,PAK,Pakistan,8,Sind,27,Hyderabad,117,Hyderabad District,District,District,HYDERABAD DISTRICT
+171,PAK,Pakistan,8,Sind,27,Hyderabad,118,Jamshoro District,District,District,JAMSHORO DISTRICT
+171,PAK,Pakistan,8,Sind,27,Hyderabad,119,Matiari District,District,District,MATIARI DISTRICT
+171,PAK,Pakistan,8,Sind,27,Hyderabad,120,Tando Allahyar District,District,District,TANDO ALLAHYAR DISTRICT
+171,PAK,Pakistan,8,Sind,27,Hyderabad,121,Tando Muhammad Khan District,District,District,TANDO MUHAMMAD KHAN DISTRIC
+171,PAK,Pakistan,8,Sind,27,Hyderabad,122,Thatta District,District,District,THATTA DISTRICT
+171,PAK,Pakistan,8,Sind,28,Karachi,123,Karachi Central District,District,District,KARACHI CENTRAL DISTRICT
+171,PAK,Pakistan,8,Sind,28,Karachi,124,Karachi East District,District,District,KARACHI EAST DISTRICT
+171,PAK,Pakistan,8,Sind,28,Karachi,125,Karachi South District,District,District,KARACHI SOUTH DISTRICT
+171,PAK,Pakistan,8,Sind,28,Karachi,126,Karachi West District,District,District,KARACHI WEST DISTRICT
+171,PAK,Pakistan,8,Sind,28,Karachi,127,Malir District,District,District,MALIR DISTRICT
+171,PAK,Pakistan,8,Sind,29,Larkana,128,Jacobabad District,District,District,JACOBABAD DISTRICT
+171,PAK,Pakistan,8,Sind,29,Larkana,129,Kashmor District,District,District,KASHMORE DISTRICT
+171,PAK,Pakistan,8,Sind,29,Larkana,130,Larkana District,District,District,LARKANA DISTRICT
+171,PAK,Pakistan,8,Sind,29,Larkana,131,Shikarpur District,District,District,SHIKARPUR DISTRICT
+171,PAK,Pakistan,8,Sind,30,Mirpur Khas,132,Mirpur Khas District,District,District,MIRPUR KHAS DISTRICT
+171,PAK,Pakistan,8,Sind,30,Mirpur Khas,134,Sanghar District,District,District,SANGHAR DISTRICT
+171,PAK,Pakistan,8,Sind,30,Mirpur Khas,135,Umer Kot District,District,District,UMER KOT DISTRICT
+171,PAK,Pakistan,8,Sind,32,Sukkur,137,Ghotki District,District,District,GHOTKI DISTRICT
+171,PAK,Pakistan,8,Sind,32,Sukkur,138,Khairpur District,District,District,KHAIRPUR DISTRICT
+171,PAK,Pakistan,8,Sind,32,Sukkur,139,Naushahro Feroze District,District,District,NAUSHAHRO FEROZE DISTRICT
+171,PAK,Pakistan,8,Sind,32,Sukkur,141,Sukkur District,District,District,SUKKUR DISTRICT
+171,PAK,Pakistan,1,Azad Kashmir,1,Azad Kashmir,1,Bagh,District,District,
+171,PAK,Pakistan,1,Azad Kashmir,1,Azad Kashmir,2,Bhimber,District,District,
+171,PAK,Pakistan,1,Azad Kashmir,1,Azad Kashmir,3,Kotli,District,District,
+171,PAK,Pakistan,1,Azad Kashmir,1,Azad Kashmir,4,Mirpur,District,District,
+171,PAK,Pakistan,1,Azad Kashmir,1,Azad Kashmir,5,Muzaffarabad,District,District,
+171,PAK,Pakistan,1,Azad Kashmir,1,Azad Kashmir,6,Neelum,District,District,
+171,PAK,Pakistan,1,Azad Kashmir,1,Azad Kashmir,7,Poonch,District,District,
+171,PAK,Pakistan,1,Azad Kashmir,1,Azad Kashmir,8,Sudhnati,District,District,
+171,PAK,Pakistan,2,Baluchistan,2,Kalat,10,Disputed Area 1,District,District,
+171,PAK,Pakistan,2,Baluchistan,2,Kalat,11,Disputed Area 2,District,District,
+171,PAK,Pakistan,2,Baluchistan,4,Nasirabad,20,Bolan,District,District,
+171,PAK,Pakistan,2,Baluchistan,5,Quetta,26,Qilla Abdullah,District,District,
+171,PAK,Pakistan,2,Baluchistan,7,Zhob,35,Qilla Saifullah,District,District,
+171,PAK,Pakistan,3,F.A.T.A.,8,F.A.T.A.,40,Largha Shirani,District,District,
+171,PAK,Pakistan,4,F.C.T.,9,Islamabad,45,Islamabad,District,District,
+171,PAK,Pakistan,5,N.W.F.P.,12,F.A.T.A.,50,Adam Khel,District,District,
+171,PAK,Pakistan,5,N.W.F.P.,12,F.A.T.A.,51,Bhittani,District,District,
+171,PAK,Pakistan,5,N.W.F.P.,15,Malakand,61,Dir,District,District,
+171,PAK,Pakistan,6,Northern Areas,18,Northern Areas,71,Chilas,District,District,
+171,PAK,Pakistan,6,Northern Areas,18,Northern Areas,72,Gilgit (Tribal Territory),District,District,
+171,PAK,Pakistan,6,Northern Areas,18,Northern Areas,73,Gilgit,District,District,
+171,PAK,Pakistan,6,Northern Areas,18,Northern Areas,74,Kargil,District,District,
+171,PAK,Pakistan,6,Northern Areas,18,Northern Areas,75,Kupwara (Gilgit Wazarat),District,District,
+171,PAK,Pakistan,6,Northern Areas,18,Northern Areas,76,Ladakh (Leh),District,District,
+171,PAK,Pakistan,7,Punjab,22,Gujranwala,87,Gujarat,District,District,
+171,PAK,Pakistan,7,Punjab,22,Gujranwala,89,Gujranwala 2,District,District,
+171,PAK,Pakistan,7,Punjab,22,Gujranwala,93,Narowal 2,District,District,
+171,PAK,Pakistan,7,Punjab,23,Lahore,98,Okara 1,District,District,
+171,PAK,Pakistan,8,Sind,30,Mirpur Khas,133,Mithi,District,District,
+171,PAK,Pakistan,8,Sind,31,Rann of Kutch,136,Rann of Kutch,District,District,
+171,PAK,Pakistan,8,Sind,32,Sukkur,140,Nawab Shah,District,District,
