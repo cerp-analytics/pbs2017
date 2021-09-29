@@ -9,7 +9,9 @@ Data Source: https://www.pbs.gov.pk/content/district-wise-results-tables-census-
 Each of the districts in the link above have 40 tables, broken down by tehsil / sub-division. The data folder will be organized by table number and contain various versions of the underlying raw data. All tables completed and uploaded are listed below - this is a work in progress.
 
 04 - population breakdown by age, sex, rural/urban - tehsil/district level
+
 29 - houshold room occupancy and household size - district level
+
 33 - construction material used and ownership status  - district level
 
 For the most disaggregated version of data available, download tehsil_disaggregated or district_disaggregated version as per your needs.
