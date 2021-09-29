@@ -1,3 +1,5 @@
-Please use the shapefile_link file to connect the PBS data with the shapefiles. We have connected the districts so far.
+## Mapping data
 
-The shapefiles are not from an official source - use accordingly. We would also like to cite it - let us know if you have information about the original author.
+We have also provided shapefiles for you to be able to map out the data and explore spatial patterns. The shapefiles are dated (2010) so use accordingly. We have also provided a key to link district names in PBS data to the shapefile attribute table. The source of these shapefiles is OCHA's admin boundaries database for Pakistan, among other sources. There are some differences between the boundaries between PBS and OCHA which are are more apparent at the tehsil / adm3 level. h/t to @suzairjunaid for pointing this out.
+
+Link to source: https://data.humdata.org/dataset/pakistan-union-council-boundaries-along-with-other-admin-boundaries-dataset
