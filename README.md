@@ -37,7 +37,7 @@ Link to source: https://data.humdata.org/dataset/pakistan-union-council-boundari
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Feedback is welcome.
 
-Please make sure to cite us if using the data in your projects.
+Please make sure to cite us if using the data in your projects. Maintained by Ahwaz Akhtar.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
